@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/GramarshiAcademyInternational/static/js/main.b128a4d1.chunk.js",
-    "main.js.map": "/GramarshiAcademyInternational/static/js/main.b128a4d1.chunk.js.map",
-    "runtime-main.js": "/GramarshiAcademyInternational/static/js/runtime-main.9e29843e.js",
-    "runtime-main.js.map": "/GramarshiAcademyInternational/static/js/runtime-main.9e29843e.js.map",
-    "static/js/2.f9ed8196.chunk.js": "/GramarshiAcademyInternational/static/js/2.f9ed8196.chunk.js",
-    "static/js/2.f9ed8196.chunk.js.map": "/GramarshiAcademyInternational/static/js/2.f9ed8196.chunk.js.map",
+    "main.css": "/GramarshiAcademyInternational/static/css/main.0a864b7e.chunk.css",
+    "main.js": "/GramarshiAcademyInternational/static/js/main.318f1d1a.chunk.js",
+    "main.js.map": "/GramarshiAcademyInternational/static/js/main.318f1d1a.chunk.js.map",
+    "runtime-main.js": "/GramarshiAcademyInternational/static/js/runtime-main.f11f3bb1.js",
+    "runtime-main.js.map": "/GramarshiAcademyInternational/static/js/runtime-main.f11f3bb1.js.map",
+    "static/js/2.4ec48c59.chunk.js": "/GramarshiAcademyInternational/static/js/2.4ec48c59.chunk.js",
+    "static/js/2.4ec48c59.chunk.js.map": "/GramarshiAcademyInternational/static/js/2.4ec48c59.chunk.js.map",
     "index.html": "/GramarshiAcademyInternational/index.html",
-    "static/js/2.f9ed8196.chunk.js.LICENSE.txt": "/GramarshiAcademyInternational/static/js/2.f9ed8196.chunk.js.LICENSE.txt"
+    "static/css/main.0a864b7e.chunk.css.map": "/GramarshiAcademyInternational/static/css/main.0a864b7e.chunk.css.map",
+    "static/js/2.4ec48c59.chunk.js.LICENSE.txt": "/GramarshiAcademyInternational/static/js/2.4ec48c59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e29843e.js",
-    "static/js/2.f9ed8196.chunk.js",
-    "static/js/main.b128a4d1.chunk.js"
+    "static/js/runtime-main.f11f3bb1.js",
+    "static/js/2.4ec48c59.chunk.js",
+    "static/css/main.0a864b7e.chunk.css",
+    "static/js/main.318f1d1a.chunk.js"
   ]
 }
